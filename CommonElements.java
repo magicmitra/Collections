@@ -1,7 +1,4 @@
-/* Ervin Mitra
- * CSC385E
- * Module 4 
- */
+
 
 public class CommonElements implements Comparable
 {
