@@ -1,9 +1,3 @@
-/* Ervin Mitra
- * CSC385E
- * Module 4 
- * This is the test file, I would like to see 
- * that algorithm in action
- */
  
 public class TestCollections
 {
