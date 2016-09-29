@@ -45,8 +45,8 @@ public class CommonElements implements Comparable
                {
                   // check if common element can be found
                   comparisons++;
-                  setMarker(j, k++);
-                  k++;
+                  k++; 
+                  setMarker(j, k);
                }
                else
                {
